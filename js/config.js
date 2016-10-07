@@ -86,13 +86,13 @@ dojo.declare("js.config", null, {
         Key: "parcelMap",
         ThumbnailSource: "images/Parcel map.png",
         Name: "Streets",
-        MapURL: "http://tryitlive.arcgis.com/arcgis/rest/services/GeneralPurpose/MapServer",
+        MapURL: "http://tiles.arcgis.com/tiles/Pu6Fai10JE2L2xUd/arcgis/rest/services/GeneralPurposeBasemap/MapServer",
         useForMobileDevice: true
     }, {
         Key: "imageryMap",
         ThumbnailSource: "images/imageryHybrid.png",
         Name: "Imagery",
-        MapURL: "http://tryitlive.arcgis.com/arcgis/rest/services/ImageryHybrid/MapServer"
+        MapURL: "http://tiles.arcgis.com/tiles/Pu6Fai10JE2L2xUd/arcgis/rest/services/ImageryHybridBasemap/MapServer"
     }],
 
     // Initial map extent. Use comma (,) to separate values and don't delete the last comma
@@ -112,7 +112,7 @@ dojo.declare("js.config", null, {
 
     FeedbackLayer: {
         Key: "feedbackLayer",
-        ServiceUrl: "http://services.arcgis.com/b6gLrKHqgkQb393u/arcgis/rest/services/ParcelMarkupsIL/FeatureServer/0"
+        ServiceUrl: "http://services6.arcgis.com/Pu6Fai10JE2L2xUd/arcgis/rest/services/ParcelMarkups/FeatureServer/0"
 
     },
 
@@ -191,7 +191,7 @@ dojo.declare("js.config", null, {
     Layers: [{
         Key: "foreClosure",
         Title: "Foreclosures",
-        ServiceURL: "http://tryitlive.arcgis.com/arcgis/rest/services/AssessmentOperationsIL/MapServer/0",
+        ServiceURL: "http://services6.arcgis.com/Pu6Fai10JE2L2xUd/arcgis/rest/services/AssessmentOperations/FeatureServer/0",
         isVisible: false,
         isDynamicMapService: false,
         Fields: [{
@@ -232,7 +232,7 @@ dojo.declare("js.config", null, {
     }, {
         Key: "parcelSale",
         Title: "Sales",
-        ServiceURL: "http://tryitlive.arcgis.com/arcgis/rest/services/AssessmentOperationsIL/MapServer/1",
+        ServiceURL: "http://services6.arcgis.com/Pu6Fai10JE2L2xUd/arcgis/rest/services/AssessmentOperations/FeatureServer/1",
         isVisible: false,
         isDynamicMapService: false,
         Fields: [{
@@ -275,7 +275,7 @@ dojo.declare("js.config", null, {
         }]
     }, {
         Key: "taxParcelLayer",
-        ServiceURL: "http://tryitlive.arcgis.com/arcgis/rest/services/TaxParcelQueryIL/MapServer/0",
+        ServiceURL: "http://services6.arcgis.com/Pu6Fai10JE2L2xUd/arcgis/rest/services/TaxParcelQuery/FeatureServer/0",
         OutFields: "PARCELID, SITEADDRESS, CNVYNAME",
         ParcelQuery: "UPPER(PARCELID) LIKE '%${0}%' OR UPPER(SITEADDRESS) LIKE '%${0}%' OR UPPER(CNVYNAME) LIKE '%${0}%'",
         LocateParcelQuery: "PARCELID = '${0}'",
