@@ -4,8 +4,6 @@ This application is now in mature support.***
 
 The Tax Parcel Viewer is a configuration of ArcGIS and JavaScript application that provides the general public and other interested parties local government property tax and assessment information and supplements that information with lifestyle and internet broadband information for a given neighborhood.  It is a single application that can be deployed by local governments and used by citizens on a desktop PC, mobile phone, and tablet device.
 
-[Try the Tax Parcel Viewer application](http://links.esri.com/localgovernment/tryit/TaxParcelViewer/)
-
 [![Image of Tax Parcel Viewer application](tax-parcel-viewer.png "Tax Parcel Viewer application")](http://links.esri.com/localgovernment/tryit/TaxParcelViewer/)
 
 ## Features
@@ -16,20 +14,7 @@ The Tax Parcel Viewer is a configuration of ArcGIS and JavaScript application th
 * Provide feedback to a local government
 * Share parcel information using social media
 
-## Requirements
-
-**Start now using Esri-supplied sample services**
-
-You can start using the application now by setting it up on a web server running Microsoft Internet Information Services (IIS) and using sample services supplied by Esri.
-You'll need to convert to an application in IIS and use the ASP .NET 4.0. application pool.
-
-**Start now using your own services**
-
-For more information on requirements and publication steps, see [Tax Parcel Viewer](http://links.esri.com/localgovernment/help/10.2/TaxParcelViewer) help.
-
 ## Resources
-
-Additional [information and sample data](http://www.arcgis.com/home/item.html?id=23cc5b90b78d45e0bd51ede193328568) are available for the application.
 
 Learn more about Esri's [ArcGIS for Local Government maps and apps](http://solutions.arcgis.com/local-government/).
 
