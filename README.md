@@ -1,4 +1,6 @@
 # tax-parcel-viewer
+***This tax-parcel-vieweer repo has been replaced by a new Tax Parcel Viewer (http://solutions.arcgis.com/local-government/help/parcel-viewer/). 
+This application is now in mature support.***
 
 The Tax Parcel Viewer is a configuration of ArcGIS and JavaScript application that provides the general public and other interested parties local government property tax and assessment information and supplements that information with lifestyle and internet broadband information for a given neighborhood.  It is a single application that can be deployed by local governments and used by citizens on a desktop PC, mobile phone, and tablet device.
 
