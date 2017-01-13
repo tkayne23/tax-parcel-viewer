@@ -1,11 +1,11 @@
 # tax-parcel-viewer
 ***This tax parcel viewer repo (JavaScript) has been moved to mature support, applications built from this repo are in mature support.***
 
-***Tax Parcel Viewer solution is now a configuration of the [Web AppBuilder ](http://doc.arcgis.com/en/web-appbuilder/) and can be configured in ArcGIS Online without downloading the application. However, if you want to host the application on your own server or customize the experience then download Web AppBuilder [(Developer Edition)](https://developers.arcgis.com/web-appbuilder/)***
+***Tax Parcel Viewer solution is now a configuration of the [Web AppBuilder ](http://doc.arcgis.com/en/web-appbuilder/) and can be configured in ArcGIS Online without downloading the application. However, if you want to host the application on your own server or customize the experience then download Web AppBuilder [(Developer Edition)](https://developers.arcgis.com/web-appbuilder/).***
 
    
 
-***Check out the new [Tax Parcel Viewer](http://solutions.arcgis.com/local-government/help/parcel-viewer/) solution***
+***Check out the new [Tax Parcel Viewer](http://solutions.arcgis.com/local-government/help/parcel-viewer/) solution.***
 
 The Tax Parcel Viewer is a configuration of ArcGIS and JavaScript application that provides the general public and other interested parties local government property tax and assessment information and supplements that information with lifestyle and internet broadband information for a given neighborhood.  It is a single application that can be deployed by local governments and used by citizens on a desktop PC, mobile phone, and tablet device.
 
