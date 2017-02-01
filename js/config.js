@@ -154,10 +154,10 @@ dojo.declare("js.config", null, {
     // GEOPROCESSING SERVICE SETTINGS
     // ------------------------------------------------------------------------------------------------------------------------
     // Set report geoprocessing service URL
-    ReportGPServiceURL: "http://54.203.249.87:6080/arcgis/rest/services/TaxParcelReporting/GPServer/TaxParcelReporting",
+    ReportGPServiceURL: "http://52.26.253.224:6080/arcgis/rest/services/TaxParcelReporting/GPServer/TaxParcelReporting",
 
     //Set URL for the print task
-    PrintTaskURL: "http://54.203.249.87:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task/execute",
+    PrintTaskURL: "http://52.26.253.224:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task/execute",
 
     // ------------------------------------------------------------------------------------------------------------------------
     // INFO-WINDOW SETTINGS
